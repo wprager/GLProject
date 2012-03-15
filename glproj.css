@@ -1,0 +1,122 @@
+body {
+	background-image: url(bkgdimg.gif);
+	background-repeat: repeat-y;
+	background-color: #44bc54;
+	font-family: trebuchet ms;
+}
+
+a {
+	color: #032400;
+	text-decoration: none;
+}
+
+a:active {
+	outline: 0;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	outline: 0;
+}
+
+#sidebar {
+	width: 100px;
+	text-align: center;
+	font-family: verdana;
+	font-size: small;
+}
+
+#pg1 {
+	position: relative;
+	top: 20px;
+}
+
+#pg2 {
+	position: relative;
+	top: 70px;
+}
+
+#pg3 {
+	position: relative;
+	top: 120px;
+}
+
+#pg4 {
+	position: relative;
+	top: 170px;
+}
+
+#pg5 {
+	position: relative;
+	top: 220px;
+}
+
+#sb {
+	position: relative;
+	top: 270px;
+}
+
+#credits {
+	position: relative;
+	top: 320px;
+}
+
+#htmlval {
+	position: relative;
+	top: 350px;
+}
+
+#cssval {
+	position: relative;
+	top: 380px;
+}
+
+#pg1h1 {
+	position: absolute;
+	top: 30px;
+	left: 280px;
+}
+
+#text1 {
+	position: absolute;
+	top: 130px;
+	left: 150px;
+	margin-right: 25px;
+}
+
+#action, #glga, #meet, #alan, #hal, #guy, #john, #kyle, #guardians, #sinestro, #ring, #lantern {
+	float: right;
+	margin: 25px;
+	clear: right;
+}
+
+#dclogo {
+	position: absolute;
+	top: 10px;
+	left: 150px;
+}
+
+h1 {
+	position: absolute;
+	top: 10px;
+	left: 150px;
+}
+
+#text2 {
+	position: absolute;
+	top: 100px;
+	left: 150px;
+	margin-right: 25px;
+}
+
+#oath {
+	text-align: center;
+}
+
+#corps, #oa {
+	text-align: center;
+}
